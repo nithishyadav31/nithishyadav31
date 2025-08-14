@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" />, I'm Chinnala Nithish Yadav!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" />  Hello , I'm Chinnala Nithish Yadav!
 </h1>
 <h3 align="center">
   Data Analyst | Aspiring Data Professional | Hyderabad, India
