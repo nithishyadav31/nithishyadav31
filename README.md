@@ -45,8 +45,6 @@ Hi there! I'm <b>Chinnala Nithish Yadav</b>, currently pursuing my B.Tech final 
   Building a data warehouse using SQL Server, including ETL process, modeling, and analysis.
 - **[Excel Project Data Analysis](https://github.com/nithishyadav31/excel_project_data_analysis)**  
   Data analysis using Excel with dashboards and insights.
-- **[3D Interactive Mechanical Enhanced Learning](https://github.com/nithishyadav31/3D_interactive_mechanical_enchanced_learning)**  
-  Interactive project for mechanical learning using 3D visualization.
 - **[Nutriverse-AI](https://github.com/nithishyadav31/nutriverse-AI)**  
   Nutrition-focused project with AI-powered insights.
 
